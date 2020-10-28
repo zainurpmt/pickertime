@@ -1,0 +1,13 @@
+
+
+<resources>
+    <string name="app_name">Picker For Time</string>
+
+    <string name="hello_world">Hello Zainur! Choose a time:</string>
+    <string name="time_button">Time</string>
+    <string name="time_toast">Time</string>
+    <string name="timepicker">timePicker</string>
+    <string name="Nama">Nama : Muhammad Zainur Roziqin</string>
+    <string name="nim">NIM     : E32191352</string>
+    <string name="gol">Gol    : TKK C</string>
+</resources>
